@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446133412 source:h:\codeblocks\docbrown\docbrown.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
